@@ -1,0 +1,2 @@
+# colisiones
+Solucion de colisiones
